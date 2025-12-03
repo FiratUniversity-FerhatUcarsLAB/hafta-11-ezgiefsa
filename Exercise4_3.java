@@ -22,3 +22,6 @@ public class Exercise4_3 {
         System.out.println(".");
     }
 }
+ÇIKTISI
+    
+No, I  wug. You wugga  wug.I  wug.

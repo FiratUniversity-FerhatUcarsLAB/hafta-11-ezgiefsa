@@ -1,3 +1,5 @@
+/* ad soyad : Ezgi Efsa Güleç 
+   no: 250541023 */
 public class Exercise4_2 {
 
   // Her satirin sonuna calisma sirasi yorumlarini ekleyin.

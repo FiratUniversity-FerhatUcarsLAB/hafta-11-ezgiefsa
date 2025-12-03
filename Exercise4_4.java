@@ -1,5 +1,6 @@
 /* ad soyad : Ezgi Efsa Güleç 
    no: 250541023 */
+
 public class Exercise4_4 {
 
     public static int getNumber() {

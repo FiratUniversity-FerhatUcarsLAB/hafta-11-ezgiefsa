@@ -11,7 +11,7 @@ public class Exercise4_4 {
     public static void main(String[] args) {
 
         // 1) Donus degerini kullanmayin -> ne oluyor?
-        getNumber(); // hata vermez ama çalışmaz da boş ekran
+        getNumber(); // atama yapmadık hata vermez ama çalışmaz da boş ekran veriyor 
 
         // 2) void metodu ifade icinde kullanin -> ne oluyor?
         // System.out.println(sayHello() + 7);

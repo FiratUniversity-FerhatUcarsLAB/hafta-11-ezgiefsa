@@ -1,5 +1,6 @@
 /* ad soyad : Ezgi Efsa Güleç 
    no: 250541023 */
+
 public class Exercise4_6_Multadd {
 
     public static double multadd(double a, double b, double c) {
